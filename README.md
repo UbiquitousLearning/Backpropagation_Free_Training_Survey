@@ -62,10 +62,44 @@ We will actively maintain the survey and the Github repo.
 
 ### Perturbated Input
 
+- The Forward-Forward Algorithm: Some Preliminary Investigations. *[arXiv'22]* [[Paper]](https://arxiv.org/abs/2212.13345)[[Code]](https://github.com/pytorch/examples/tree/main/mnist_forward_forward)
+- Graph Neural Networks Go Forward-Forward. *[arXiv'23]* [[Paper]](https://arxiv.org/abs/2302.05282)
+- The Predictive Forward-Forward Algorithm. *[arXiv'23]* [[Paper]](https://arxiv.org/abs/2301.01452)[[Code]](https://github.com/ago109/predictive-forward-forward)
+- Contrastive-Signal-Dependent Plasticity: Forward-Forward Learning of Spiking Neural Systems. *[arXiv'23]* [[Paper]](https://arxiv.org/abs/2303.18187)
+- Training Convolutional Neural Networks with the Forward-Forward Algorithm. *[arXiv'23]* [[Paper]](https://arxiv.org/abs/2312.14924)
+- Backpropagation-free Training of Deep Physical Neural Networks. *[Science'23]* [[Paper]](https://www.science.org/doi/abs/10.1126/science.adi8474)
+- Forward-Forward Training of an Optical Neural Network. *[arXiv'23]* [[Paper]](https://arxiv.org/abs/2305.19170)
+- µ-FF: On-Device Forward-Forward Training Algorithm for Microcontrollers. *[SMARTCOMP'23]* [[Paper]](https://ieeexplore.ieee.org/abstract/document/10207585)
+- Error-driven Input Modulation: Solving the Credit Assignment Problem without a Backward Pass. *[ICML'22]* [[Paper]](https://proceedings.mlr.press/v162/dellaferrera22a.html?trk=public_post_comment-text)[[Code]](https://github.com/GiorgiaD/PEPITA)
+- Suitability of Forward-Forward and PEPITA Learning to MLCommons-Tiny benchmarks. *[COINS'23]* [[Paper]](https://ieeexplore.ieee.org/document/10189239)[[Code]](https://github.com/fabrizioaymone/suitability-of-Forward-Forwardand-PEPITA-learning)
+
 ### No Perturbation
+
+- Neural Network Learning without Backpropagation. *[IEEE Transactions on Neural Networks'10]* [[Paper]](https://ieeexplore.ieee.org/abstract/document/5580116)
+- The HSIC Bottleneck: Deep Learning without Back-Propagation. *[AAAI'20]* [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5950)[[Code]](https://github.com/choasma/HSIC-Bottleneck)
+- Building Deep Random Ferns Without Backpropagation. *[IEEE Access'20]* [[Paper]](https://ieeexplore.ieee.org/abstract/document/8952691)
 
 ## BP-free LLM
 
 ### Parameter-Efficient Tuning
 
+- Black-Box Tuning for Language-Model-as-a-Service. *[ICML'22]* [[Paper]](https://proceedings.mlr.press/v162/sun22e.html)[[Code]](https://github.com/txsun1997/Black-Box-Tuning)
+- BBTv2: Towards a Gradient-Free Future with Large Language Models. *[EMNLP'22]* [[Paper]](https://aclanthology.org/2022.emnlp-main.259/)[[Code]](https://github.com/txsun1997/Black-Box-Tuning)
+- Make Prompt-based Black-Box Tuning Colorful: Boosting Model Generalization from Three Orthogonal Perspectives. *[arXiv'23]* [[Paper]](https://arxiv.org/abs/2305.08088)[[Code]](https://github.com/QiushiSun/BBT-RGB)
+- Clip-Tuning: Towards Derivative-free Prompt Learning with a Mixture of Rewards. *[EMNLP'22]* [[Paper]](https://aclanthology.org/2022.findings-emnlp.8/)
+- RLPrompt: Optimizing Discrete Text Prompts with Reinforcement Learning. *[EMNLP'22]* [[Paper]](https://aclanthology.org/2022.emnlp-main.222/)[[Code]](https://github.com/mingkaid/rl-prompt)
+- Black-box Prompt Learning for Pre-trained Language Models. *[arXiv'22]* [[Paper]](https://arxiv.org/abs/2201.08531)[[Code]](https://github.com/shizhediao/Black-Box-Prompt-Learning)
+- PromptBoosting: Black-Box Text Classification with Ten Forward Passes. *[ICML'23]* [[Paper]](https://proceedings.mlr.press/v202/hou23b.html)[[Code]](https://github.com/UCSB-NLP-Chang/PromptBoosting)
+- GrIPS: Gradient-free, Edit-based Instruction Search for Prompting Large Language Models. *[arXiv'22]* [[Paper]](https://arxiv.org/abs/2203.07281)[[Code]](https://github.com/archiki/GrIPS)
+- FedPrompt: Communication-Efficient and Privacy Preserving Prompt Tuning in Federated Learning. *[ICASSP'23]* [[Paper]](https://ieeexplore.ieee.org/document/10095356)
+- Efficient Federated Prompt Tuning for Black-box Large Pre-trained Models. *[arXiv'23]* [[Paper]](https://arxiv.org/abs/2310.03123)
+- Iterative Forward Tuning Boosts In-context Learning in Language Models. *[arXiv'23]* [[Paper]](https://arxiv.org/abs/2305.13016)[[Code]](https://github.com/AlibabaResearch/DAMO-ConvAI)
+- FwdLLM: Efficient FedLLM using Forward Gradient. *[arXiv'23]* [[Paper]](https://arxiv.org/abs/2308.13894)[[Code]](https://github.com/UbiquitousLearning/FwdLLM)
+- HyperTuning: Toward Adapting Large Language Models without Back-propagation. *[ICML'23]* [[Paper]](https://proceedings.mlr.press/v202/phang23a.html)
+
 ### Full-Parameter Tuning
+
+- Backpropagation Free Transformers. *[NeurIPS'20]* [[Paper]](https://dinkofranceschi.com/docs/bft.pdf)
+- Forward Learning of Large Language Models by Consumer Devices. *[Electronics'24]* [[Paper]](https://www.mdpi.com/2079-9292/13/2/402)[[Code]](https://github.com/fabrizioaymone/forward-learning-of-LLMs-to-consmer-devices)
+- Fine-Tuning Language Models with Just Forward Passes. *[arXiv'23]* [[Paper]](https://arxiv.org/abs/2305.17333)[[Code]](https://github.com/princeton-nlp/MeZO)
+- Federated Full-Parameter Tuning  of Billion-Sized Language Models with Communication Cost under 18 Kilobytes.  *[arXiv'23]* [[Paper]](https://arxiv.org/abs/2312.06353)[[Code]](https://github.com/alibaba/FederatedScope/tree/FedKSeed)

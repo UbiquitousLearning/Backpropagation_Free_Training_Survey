@@ -1,6 +1,6 @@
 # Efficient LLM and Multimodal Foundation Model Survey
 
-This repo contains the paper list and figures for [A Survey of Backpropagation-free Training For LLMs](./main-survey-fwd.pdf).
+This repo contains the paper list for [A Survey of Backpropagation-free Training For LLMs](./main-survey-fwd.pdf).
 
 ## Abstract
 

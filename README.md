@@ -56,10 +56,40 @@ We will actively maintain the survey and the Github repo.
 
 #### Forward Gradient
 
+- Gradients without Backpropagation. *[arXiv'22]* [[Paper]](https://arxiv.org/abs/2202.08587)
+
+- Learning by Directional Gradient Descent. *[ICLR'22]* [[Paper]](https://openreview.net/forum?id=5i7lJLuhTm)
+
+- Optimization without Backpropagation. *[arXiv'22]* [[Paper]](https://arxiv.org/abs/2209.06302)
+
+- Scaling Forward Gradient With Local Losses. *[ICLR'23]* [[Paper]](https://arxiv.org/abs/2210.03310) [[Code]](https://github.com/google-research/google-research/tree/master/local_forward_gradient)
+
+- Can Forward Gradient Match  Backpropagation? *[ICLR'23]* [[Paper]](https://arxiv.org/abs/2306.06968) 
+
+- Low-variance Forward Gradients using Direct Feedback Alignment and momentum. *[arXiv'22]* [[Paper]](https://arxiv.org/abs/2212.07282)
+
+- How to Guess a Gradient. *[arXiv'23]* [[Paper]](https://arxiv.org/abs/2312.04709)
+
 #### Zeroth-order Optimization
+
+- Does Federated Learning Really Need Backpropagation? *[arXiv'23]* [[Paper]](https://arxiv.org/abs/2301.12195) [[Code]](https://github.com/FengHZ/BAFFLE)
+
+- Fine-Tuning Language Models with Just Forward Passes. *[NeurIPS'23]* [[Paper]](https://arxiv.org/abs/2305.17333) [[Code]](https://github.com/princeton-nlp/MeZO)
+
+- DPZero: Dimension-Independent and Differentially Private Zeroth-Order Optimization. *[arXiv'23]* [[Paper]](https://arxiv.org/abs/2310.09639)
+
+- DeepZero: Scaling up Zeroth-Order Optimization for Deep Model Training. *[ICLR'24]* [[Paper]](https://arxiv.org/abs/2310.02025) [[Code]](https://github.com/OPTML-Group/DeepZero)
+
 
 #### Evolution Strategy
 
+- Black-Box Tuning for Language-Model-as-a-Service. *[ICML'22]* [[Paper]](https://arxiv.org/abs/2201.03514) [[Code]](https://github.com/txsun1997/Black-Box-Tuning)
+
+- BBTv2: Towards a Gradient-Free Future with Large Language Models. *[EMNLP'22]* [[Paper]](https://arxiv.org/abs/2205.11200) [[Code]](https://github.com/txsun1997/Black-Box-Tuning)
+
+- Unbiased Gradient Estimation in Unrolled Computation Graphs with Persistent Evolution Strategies. *[ICML'21]* [[Paper]](https://arxiv.org/abs/2112.13835)
+
+- Low-Variance Gradient Estimation in Unrolled Computation Graphs with ES-Single. *[arXiv'23]* [[Paper]](https://arxiv.org/abs/2304.11153)
 ### Perturbated Input
 
 - The Forward-Forward Algorithm: Some Preliminary Investigations. *[arXiv'22]* [[Paper]](https://arxiv.org/abs/2212.13345)[[Code]](https://github.com/pytorch/examples/tree/main/mnist_forward_forward)

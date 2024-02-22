@@ -121,7 +121,6 @@ We will actively maintain the survey and the Github repo.
 - Black-box Prompt Learning for Pre-trained Language Models. *[arXiv'22]* [[Paper]](https://arxiv.org/abs/2201.08531)[[Code]](https://github.com/shizhediao/Black-Box-Prompt-Learning)
 - PromptBoosting: Black-Box Text Classification with Ten Forward Passes. *[ICML'23]* [[Paper]](https://proceedings.mlr.press/v202/hou23b.html)[[Code]](https://github.com/UCSB-NLP-Chang/PromptBoosting)
 - GrIPS: Gradient-free, Edit-based Instruction Search for Prompting Large Language Models. *[arXiv'22]* [[Paper]](https://arxiv.org/abs/2203.07281)[[Code]](https://github.com/archiki/GrIPS)
-- FedPrompt: Communication-Efficient and Privacy Preserving Prompt Tuning in Federated Learning. *[ICASSP'23]* [[Paper]](https://ieeexplore.ieee.org/document/10095356)
 - Efficient Federated Prompt Tuning for Black-box Large Pre-trained Models. *[arXiv'23]* [[Paper]](https://arxiv.org/abs/2310.03123)
 - Iterative Forward Tuning Boosts In-context Learning in Language Models. *[arXiv'23]* [[Paper]](https://arxiv.org/abs/2305.13016)[[Code]](https://github.com/AlibabaResearch/DAMO-ConvAI)
 - FwdLLM: Efficient FedLLM using Forward Gradient. *[arXiv'23]* [[Paper]](https://arxiv.org/abs/2308.13894)[[Code]](https://github.com/UbiquitousLearning/FwdLLM)
